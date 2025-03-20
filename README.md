@@ -1,1 +1,2 @@
 # weekly-price-pool
+0xe2b57fFb14e39Cf5D8831d84613e208CC7745764
